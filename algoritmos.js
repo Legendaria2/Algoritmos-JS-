@@ -91,7 +91,7 @@ function areaTriangulo () {
     
         A=3.14*(B**2);
     
-        alert ("El area de su Rectangulo es: "+A);
+        alert ("El area de su Circulo es: "+A);
         return;
 
     }
